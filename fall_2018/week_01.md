@@ -1,21 +1,15 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Finally finished setting up docker and for our hedgehogs docker image. Also, we (Brian and I) downloaded SimFin Financial Data and created a parser to parse all of the financial data to prepare to put into our PostgreSQL server.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> Connect to the PostgreSQL server and learn a bit of basic PostgreSQL to properly input data into the server and organize into tables.
+ 
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> Having no previous knowledge of databases/servers platforms like PostgreSQL makes it a bit tough to understand the use of it. The language seems relatively easy to pick up though.
 
 ## Notes
 
