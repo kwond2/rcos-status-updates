@@ -1,15 +1,15 @@
 ## Last Week's Accomplishments
 
-> Cleaned up status updates for RCOS, looked through issues.
+> Cleaned up status updates for RCOS, looked through issues. Started on writing more test cases for B7 to run. 
 
 ## This Week's Plan
 
-> Look through current issues and pick out a small housekeeping job or small fix on Rust code. Recall how to push onto the git repository for RCOS. Fix up status updates for RCOS.
+> Continue working on test cases written/compiled in C, "TestCaseD". Write up a few more test cases after RCOS semester ends.
  
 
 ## Anything Blocking?
 
-> 
+> Technical issues with B7 not correctly solving the test cases - worked with Luke to sort them out.
 
 ## Notes
 
